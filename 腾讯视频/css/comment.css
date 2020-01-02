@@ -1,0 +1,43 @@
+html,
+body{
+    
+    width: 100%;
+    height:100%;
+    padding: 0;
+    margin: 0;
+    height: 10000px;
+}
+.container{
+    margin: 0 auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+@font-face {font-family: "iconfont";
+  src: url('../font/iconfont.eot?t=1577699559862'); /* IE9 */
+  src: url('../font/iconfont.eot?t=1577699559862#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOAAAsAAAAAB5wAAAMzAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqCWIJaATYCJAMQCwoABCAFhG0HRhvKBhHVm3nIfibE272MxQzTVdFEe2uCJ7L7etXV87dvZunoTEQCM0DhOjoY6RRg7eZcU09GRb0cydknj76QtMPs0vQhAA6OmS59s2GezeZSTRVNkYADmw4sMv/J/kFe0H+R3RWIRe6HAD65VEZat+3cG4fFHCaATJ4wbgQuI8M2JAsOIVIx1yKb8HBmtSkGNga/L1+oKQ4MnmKO7T62zWiav09631AXhRjsIeCMpwH4RaBAZcCCjK/UjUQjX2UUX+1sqQs4HAbGaqnyvmEYEu5exM76lweCQUEimInRANQmfoX3SQ4NAu+r0GDgfcMEFOCFyB13FBgDHKHY7E8YDJIem5keM3vknQdy/37fu3d737vXZ+2DbmO2rz2+OFWmFvEPHvRjVuplUJDkp21PWbszbUdqKjiqY59+s/v2bmRmM/wdO9ZsA2nDbHnmrPt9j+Vnm/0FlUYdX9x0eAcN6zVY31PPfP983l6wHkHP6Nm1L2jnFdUnWXZn1srYTeNLu0xBnm7XbYgRiXYKuG26nYHHwdoPWmZBwYFVZoUp3I/OZMhP/7mvxlRa++rkDtlt3p6rsPFVjR3zR9U48726nzG6ZWLZ+fl7V7RleGuUnSdpBUnPAo+KG96c2Sm7BF1ecT1PTx6ee3jO25Lk78klb1v971mX6QCE9KdODwbXr9oYwPw113/Y39DxZ3TNYXGN/7nAAvC42qcP2Bqy9OO8dQ6Y83s4wBqr8Uy5tQrfYesGS83eQwzg4wM/JQSJPB9DmgJOBMGRkoAhihxQHKWRFlsZPAJqQwRHM/CpRLvFAUnMRBFbCqjIcgRCPKfBEMttUOIpQVrsM/BI5RtEiBcFn76StGYAfZT+cBI0ih7sH3rHC9lKPYTJdwx5MpLmBcQ3Suqd0JR1PnjDBWWMCekTWlUCEp7hig7DaWJYhQd0WkbVtasqqvqm0vFcHDgJGkUP2D/QO17Ia66Hws/fMeTJSENBlf6Nkvr2gYaSGoC8iRdQwbU8kj6hRZUAEp6BK9LgZPkYWKt7Dei0JPbwrB0VaURQcTm/dH6ALL4Ec2srRlSseGxmcU6ZDzGb5d97hI1l0oaiAAA=') format('woff2'),
+  url('../font/iconfont.woff?t=1577699559862') format('woff'),
+  url('../font/iconfont.ttf?t=1577699559862') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../font/iconfont.svg?t=1577699559862#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sousuo:before {
+  content: "\e613";
+}
+
+.icon-huanyihuan:before {
+  content: "\e62d";
+}
+
+.icon-bofang:before {
+  content: "\e63a";
+}
+  
