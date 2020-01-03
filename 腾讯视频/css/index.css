@@ -718,5 +718,28 @@ margin: 0 auto;
 .big-logo{
     background-image: url(../img/longbishu.jfif);
 }
-
-
+.huoyunxieshen{
+    position: relative;
+    width: 100%;
+}
+.huoyunxieshen ul{
+    width: 100%;
+}
+.huoyunxieshen ul li{
+    width: 100%;
+}
+.huoyunxieshen ul li img{
+    width: 100%;
+}
+.huoyunxieshen ul li  a i{
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #f8920c;
+}
+.huoyunxieshen ul li a a{
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #fff;
+}
