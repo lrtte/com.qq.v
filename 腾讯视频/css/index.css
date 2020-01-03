@@ -225,7 +225,6 @@ text-shadow: 0 1px 2px #555;
 }
 .exchange{
    width: 100%;
-   margin-top: 459px;
 }
 .exchange-box{
     width: 20%;
@@ -731,15 +730,281 @@ margin: 0 auto;
 .huoyunxieshen ul li img{
     width: 100%;
 }
+.huoyunxieshen ul li img a{
+    width: 100%;
+}
 .huoyunxieshen ul li  a i{
     position: absolute;
     top: 0;
-    left: 0;
-    color: #f8920c;
+    right: 391px;
+    color: orangered;
 }
-.huoyunxieshen ul li a a{
+.huoyunxieshen ul li a b{
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 4px;
+    left: 22px;
     color: #fff;
+}
+.video-open{
+    position: relative;
+    width: 100%;
+    height: 46px;
+    background-color:#f2f4f5 ;
+}
+.video-open a{
+    width: 90%;
+    margin: 0;
+    padding: 13px 0;
+    color: #000028;
+    font-size: 14px;
+    line-height: 46px;
+}
+.video-open i{
+    z-index: 1;
+    position: absolute;
+    right: 14px;
+    top: 5px;
+    padding-left: 5px;
+    background: #f2f4f5;
+    line-height: 46px;
+}
+
+.yuandan{
+    width: 100%;
+    overflow: hidden;
+}
+.yuandan ul{
+    width: 1000%;
+}
+.yuandan ul li{
+    width:20%;
+    float: left;
+    height: 3rem;
+}
+.introduce{
+    margin-top: -9px;
+}
+.introduce span{
+    /* font-size: 13px; */
+    line-height: 18px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    color: #848494;
+    margin-bottom: 15px;
+}
+.discont{
+    width: 100%;
+}
+.discont span{
+    display: inline-block;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 4px;
+    font-size: 15px;
+    color: #fff;
+    background: #E5C057;
+    margin: 20px 0;
+}
+
+.zoxun h2{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 35px;
+    margin-top: 20px;
+}
+.pianhua ul li{
+    width: 145px;
+    float: left;
+    margin: 0px 3px;
+}
+.pianhua ul li img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.pianhua ul{
+    width: 1221px;
+    overflow: hidden;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.pianhua{
+   overflow: hidden;
+   position: relative;
+}
+.pianhua ul li a p{
+    display: block;
+    line-height: 20px;
+    overflow: hidden;
+    font-size: 14px;
+    color: #000028;
+    margin-bottom: 20px;
+}
+.recommend{
+    width: 100%;
+}
+.recommend ul{
+    width: 100%;   
+}
+.recommend ul li{
+    position: relative;
+    width: 50%;
+    float: left;    
+}
+.recommend ul li img{
+    width: 98%;
+    height: 25.07vw;
+    border-radius: 5px;
+}
+.recommend ul li a{
+position: absolute;
+top: 5px;
+left: 0;
+padding-left: 12px;
+color: #fff;
+font-size: 10px;
+line-height: 9px;
+text-shadow: 0 1px 2px #555;
+}
+.recommend ul li .set{
+    position: absolute;
+    right: 20px;
+    bottom: 40px;
+    padding: 2px 3px;
+    background-color: #a2a2b6;
+    background-color: rgba(162,162,182,.5);
+    color: #fff;
+    font-size: 10px;
+    line-height: 1;
+}
+.recommend ul li p:first-child{
+    margin-top: 6px;
+    padding: 0;
+    color: #000028;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 700;
+}
+.recommend ul li p:last-child{
+    margin-top: 4px;
+    color: #a2a2b6;
+    font-size: 12px;
+    line-height: 18px;
+}
+.privilege {
+    width: 100%;
+}
+.privilege ul{
+    width: 136%;
+}
+.privilege ul li{
+    display: inline-block;
+    width: 82px;
+}
+.privilege ul li:nth-child(1) a i{
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+}
+.privilege ul li:nth-child(2) a i{
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background-position: -51px -50px;
+}
+.privilege ul li:nth-child(3) a i{
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background-position: 0px -50px;
+}
+.privilege ul li:nth-child(4) a i{
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background-position: -51px -50px;
+}
+.privilege ul li:nth-child(5) a i{
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background-position: -100px 0px;
+}
+.privilege ul li:nth-child(6) a i{
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background-position: -100px -50px;
+}
+.recommend-bside{
+    width: 100%;
+    margin-top: 20px;
+}
+.recommend-bside ul{
+    width: 100%;
+}
+.recommend-bside ul li img{
+   width: 64px;
+   height: 64px;
+   margin: 0 40%;
+}
+.recommend-bside ul li{ 
+    width: 33.3333333333333333%;
+    float: left;
+    
+}
+.recommend-bside ul li  span{
+    color: black;
+    margin: 0 40%;
+    display: block;
+    font-size: 14px;
+    width: 70px;
+}
+.recommend-bside ul li  b{
+    display: block;
+    border: 1px solid #ebebeb;
+    color: #ccc;
+    margin: 0 40%;
+    margin-top: 10px;
+    text-align: center;
+    padding: 5px 10px;
+    width: 28px;
+}
+.comment{
+    position: relative;
+    width: 100%;
+height: 30px;
+}
+.comment img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    
+}
+.comment span{
+position: absolute;
+top: 10px;
+left: 53px;
+}
+.comment-two {
+    width: 100%;
+}
+.comment-two  span{
+    margin-top: 10px;
 }
