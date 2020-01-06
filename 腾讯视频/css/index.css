@@ -990,6 +990,8 @@ text-shadow: 0 1px 2px #555;
     position: relative;
     width: 100%;
 height: 30px;
+margin-bottom: 10px;
+margin-top: 20px;
 }
 .comment img{
     height: 30px;
@@ -1005,6 +1007,67 @@ left: 53px;
 .comment-two {
     width: 100%;
 }
-.comment-two  span{
-    margin-top: 10px;
+
+.last{
+    width: 100%;
+}
+.last a{
+    width: 100%;
+    height: 42px;
+    padding: 11px 0;
+    border: 1px solid #62606a;
+    border-radius: 3px;
+    text-align: center;
+}
+.last a span:first-child{
+    display: inline-block;
+    width: 23px;
+    height: 20px;
+    background: url(../img/logologo.png) no-repeat 9999em 9999em;
+    background-size: 60px;
+    background-position: 0 0;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.last a span:last-child{
+    font-size: 15px;
+    line-height: 20px;
+    color: #030303;
+}
+.bottom{
+    width: 100%;
+}
+.bottom .bottom-top{
+    width: 100%;
+}
+.bottom .bottom-bottom{
+    width: 100%;
+}
+.bottom-top .left img{
+    width: 84px;
+    height: 48px;
+}
+.bottom-top .left {
+float: left;
+}
+.bottom-top .center {
+ float: left;
+}
+.bottom-top .right {
+float: right;
+}
+.bottom .bottom-top .right button{
+    -webkit-box-flex: 0;
+    -ms-flex: none;
+    flex: none;
+    width: 66px;
+    height: 32px;
+    line-height: 32px;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    background: #FF6022;
+    outline: none;
 }
