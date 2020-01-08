@@ -550,7 +550,7 @@ nav ul li a{
     left: 15px;
     width: 122px;
     height: 27px;
-    background: url(../img/logo_gold.png) no-repeat 0 0;
+    background: url(./image/logo_gold.png) no-repeat 0 0;
     background-size: 100%;
 }
 .vip-top{
@@ -651,7 +651,7 @@ margin: 0 auto;
     height: 80px;
     margin: 0 auto;
     border: 1px solid #545752;
-    background: url(../img/default_160.png) no-repeat;
+    background: url(../image/default_160.png) no-repeat;
     background-size: 100%;
     border-radius: 50%;
     margin-bottom: 21px;
@@ -690,7 +690,7 @@ margin: 0 auto;
     display: inline-block;
     width: 25px;
     height: 21px;
-    background-image: url(../img/sprite_icon.png);
+    background-image: url(../image/sprite_icon.png);
     background-repeat: no-repeat;
     background-position: 9999em 9999em;
     background-size: 60px;
@@ -704,7 +704,7 @@ margin: 0 auto;
     display: inline-block;
     width: 25px;
     height: 21px;
-    background-image: url(../img/sprite_icon.png);
+    background-image: url(../image/sprite_icon.png);
     background-repeat: no-repeat;
     background-position: 9999em 9999em;
     background-size: 60px;
@@ -715,7 +715,7 @@ margin: 0 auto;
     background-position: -30px 0;
 }
 .big-logo{
-    background-image: url(../img/longbishu.jfif);
+    background-image: url(../image/longbishu.jfif);
 }
 .huoyunxieshen{
     position: relative;
@@ -910,14 +910,14 @@ text-shadow: 0 1px 2px #555;
     margin: 0 auto;
     width: 50px;
     height: 50px;
-    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background: url(./image/beijing.png) no-repeat top left/150px 100px;
 }
 .privilege ul li:nth-child(2) a i{
     display: block;
     margin: 0 auto;
     width: 50px;
     height: 50px;
-    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background: url(./image/beijing.png) no-repeat top left/150px 100px;
     background-position: -51px -50px;
 }
 .privilege ul li:nth-child(3) a i{
@@ -925,7 +925,7 @@ text-shadow: 0 1px 2px #555;
     margin: 0 auto;
     width: 50px;
     height: 50px;
-    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background: url(./image/beijing.png) no-repeat top left/150px 100px;
     background-position: 0px -50px;
 }
 .privilege ul li:nth-child(4) a i{
@@ -933,7 +933,7 @@ text-shadow: 0 1px 2px #555;
     margin: 0 auto;
     width: 50px;
     height: 50px;
-    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background: url(./image/beijing.png) no-repeat top left/150px 100px;
     background-position: -51px -50px;
 }
 .privilege ul li:nth-child(5) a i{
@@ -941,7 +941,7 @@ text-shadow: 0 1px 2px #555;
     margin: 0 auto;
     width: 50px;
     height: 50px;
-    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background: url(./image/beijing.png) no-repeat top left/150px 100px;
     background-position: -100px 0px;
 }
 .privilege ul li:nth-child(6) a i{
@@ -949,7 +949,7 @@ text-shadow: 0 1px 2px #555;
     margin: 0 auto;
     width: 50px;
     height: 50px;
-    background: url(../img/beijing.png) no-repeat top left/150px 100px;
+    background: url(./image/beijing.png) no-repeat top left/150px 100px;
     background-position: -100px -50px;
 }
 .recommend-bside{
@@ -1023,7 +1023,7 @@ left: 53px;
     display: inline-block;
     width: 23px;
     height: 20px;
-    background: url(../img/logologo.png) no-repeat 9999em 9999em;
+    background: url(./image/logologo.png) no-repeat 9999em 9999em;
     background-size: 60px;
     background-position: 0 0;
     vertical-align: middle;
